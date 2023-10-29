@@ -1,7 +1,7 @@
 <script type="module">
   // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-analytics.js";
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.5.2/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.5.2/firebase-analytics.js";
   // TODO: Add SDKs for Firebase products that you want to use
   // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -13,8 +13,8 @@
     projectId: "krishnaa-tech",
     storageBucket: "krishnaa-tech.appspot.com",
     messagingSenderId: "448296690816",
-    appId: "1:448296690816:web:720090e77a8df2dab43265",
-    measurementId: "G-7EKLQN45D3"
+    appId: "1:448296690816:web:1de6c92b04f6f837b43265",
+    measurementId: "G-67ZDCTTC4E"
   };
 
   // Initialize Firebase
