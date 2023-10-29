@@ -13,8 +13,8 @@
     projectId: "krishnaa-tech",
     storageBucket: "krishnaa-tech.appspot.com",
     messagingSenderId: "448296690816",
-    appId: "1:448296690816:web:1de6c92b04f6f837b43265",
-    measurementId: "G-67ZDCTTC4E"
+    appId: "1:448296690816:web:263b7949c5ebddf0b43265",
+    measurementId: "G-WJN37FR4FR"
   };
 
   // Initialize Firebase
