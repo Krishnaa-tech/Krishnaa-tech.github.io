@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "krish-codes",
+    "site" : "krish-codes",
     "public": "public",
     "ignore": [
       "firebase.json",
